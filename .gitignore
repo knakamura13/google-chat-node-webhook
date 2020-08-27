@@ -1,2 +1,6 @@
 .env
+.swp
+.DS_Store
 node_modules/
+quick*.json
+google_credentials.json
